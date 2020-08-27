@@ -26,7 +26,7 @@
 
 ---
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Gulamov)](https://github.com/Roman-Gulamov/github-readme-stats)
 
