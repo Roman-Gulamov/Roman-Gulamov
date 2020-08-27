@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Roman-Gulamov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Roman-Gulamov&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Roman-Gulamov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Roman-Gulamov&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
