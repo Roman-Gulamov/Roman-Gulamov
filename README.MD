@@ -28,6 +28,8 @@
 
 <img align="left" alt="Roman-Gulamov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Roman-Gulamov&show_icons=true&hide_border=true&theme=tokyonight" />
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Gulamov)](https://github.com/Roman-Gulamov/github-readme-stats)
 
 [twitter]: https://twitter.com/Memento_rom
