@@ -25,7 +25,12 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Github Stats</summary>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Gulamov)](https://github.com/Roman-Gulamov/github-readme-stats)
+
+</details>
  
 <details>
   <summary>:zap: Github Stats</summary>
