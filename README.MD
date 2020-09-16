@@ -4,7 +4,7 @@
 
 [<img align="left" alt="Roman-Gulamov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Roman-Gulamov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Roman-Gulamov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Roman-Gulamov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -40,5 +40,5 @@
 
 
 [twitter]: https://twitter.com/Memento_rom
-[instagram]: https://www.instagram.com/memento_turk/
+[telegram]: https://teleg.run/memento_turk
 [linkedin]: https://www.linkedin.com/in/роман-гуламов-5712b31b2/
