@@ -2,6 +2,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Roman-Gulamov | Website" width="22px" src="https://res.cloudinary.com/romangulamov/image/upload/v1619024539/Icon/icon_yhxtfk.jpg" />][Website]
 [<img align="left" alt="Roman-Gulamov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Roman-Gulamov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roman-Gulamov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
