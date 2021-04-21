@@ -3,9 +3,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Roman-Gulamov | Website" width="22px" src="https://res.cloudinary.com/romangulamov/image/upload/v1619024539/Icon/icon_yhxtfk.jpg" />][website]
-[<img align="left" alt="Roman-Gulamov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Roman-Gulamov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Roman-Gulamov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Roman-Gulamov | Twitter" width="22px" src="https://res.cloudinary.com/romangulamov/image/upload/v1619024867/Icon/twitter_go1t5d.svg" />][twitter]
+[<img align="left" alt="Roman-Gulamov | LinkedIn" width="22px" src="https://res.cloudinary.com/romangulamov/image/upload/v1619024867/Icon/linkedin_t32ugc.svg" />][linkedin]
+[<img align="left" alt="Roman-Gulamov | Telegram" width="22px" src="https://res.cloudinary.com/romangulamov/image/upload/v1619024867/Icon/telegram_syxvr8.svg" />][telegram]
 
 <br />
 
