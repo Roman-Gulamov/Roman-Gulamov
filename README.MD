@@ -33,7 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Gulamov)](https://github.com/Roman-Gulamov/github-readme-stats)
 
-
 [website]: https://roman-gulamov.github.io/Portfolio/#/profile
 [twitter]: https://twitter.com/Memento_rom
 [telegram]: https://teleg.run/memento_turk
